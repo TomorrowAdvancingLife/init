@@ -1,0 +1,12 @@
+{
+    "name": "talkit/init",
+    "description": "Placeholder",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Eric",
+            "email": "eric@sunshake.com"
+        }
+    ],
+    "require": {}
+}
